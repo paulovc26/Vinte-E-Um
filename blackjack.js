@@ -46,7 +46,6 @@ function startGame(){
   // console.log(hidden);
   // console.log(mesaSoma)
   while (mesaSoma < 17) {
-    //<img>
     let cardImg = document.createElement("img");
     let card = deck.pop();
     cardImg.src ="./cards/" + card + ".png"
