@@ -146,3 +146,7 @@ function reduceAce(jogadorSoma, jogadorMaoConta) {
   }
   return jogadorSoma;
 }
+
+function reiniciar(){
+  window.location.reload()
+}
