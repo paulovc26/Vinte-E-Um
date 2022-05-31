@@ -29,3 +29,10 @@ body {
   font-size: 20px;
   margin-left: 3px;
 }
+
+#reiniciar {
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 3px;
+}
